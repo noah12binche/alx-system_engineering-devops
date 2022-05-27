@@ -1,1 +1,2 @@
-This repository is for ALX Software Engineering Program practice
+# System Development-Devops
+This repo is about shell scripting.
