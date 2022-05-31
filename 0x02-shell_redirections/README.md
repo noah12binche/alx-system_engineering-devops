@@ -6,3 +6,4 @@ Below are some commands used in this project and thier meaning...
  3. cat /etc/passwd /etc/hosts  ----Display the content of two seperate files
  4. tail /etc/passwd  ----Displays the last 10 lines of a file 
  5. head /etc/passwd ....Displays the first 10 lines of a file
+ 6. head -n 3 iacta  ----Displays the third line of the file
